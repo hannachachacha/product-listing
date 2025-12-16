@@ -45,4 +45,4 @@ Users can view products, filter by category, sort by price, and search by name. 
    ```bash
    npm run dev
    ```
-The application will be available at: http://localhost:5173/
+The application will be available at: http://localhost:5173/product-listing/
