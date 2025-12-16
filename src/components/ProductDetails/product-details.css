@@ -1,0 +1,13 @@
+.product-details-image img {
+  display: block;
+  max-height: 300px;
+  width: auto;
+  max-width: 100%;
+  object-fit: contain;
+  margin: 0 auto 1rem;
+}
+
+.modal-open {
+  overflow: hidden;
+  height: 100vh;
+}
