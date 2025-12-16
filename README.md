@@ -32,7 +32,7 @@ Users can view products, filter by category, sort by price, and search by name. 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/hannachachacha/product-listing
+   git clone https://github.com/hannachachacha/product-listing.git
    cd product-listing
    ```
 
